@@ -1,0 +1,30 @@
+*{padding: 0;margin:0;}
+.container{height: 100vh;
+    width: 100vw;
+    color: black;
+    background: #fac5c5;
+    text-align: center}
+
+.love, .yes, .no{
+    padding-top: 25%;
+}
+
+h2{font-size: 72px; margin-bottom: 30px}
+.love span{color: #f50202;}
+.love a{text-decoration: none;
+    background: #eee;
+    padding: 5px;
+    margin: 5px 10px;
+    border: 3px solid #ddd;
+    border-radius: 10px;
+}
+#no{color:gray;}
+#yes{color:gray;}
+
+.img-bd{
+    width: 300px;
+}
+
+.img-sd{
+    width: 250px;
+}
